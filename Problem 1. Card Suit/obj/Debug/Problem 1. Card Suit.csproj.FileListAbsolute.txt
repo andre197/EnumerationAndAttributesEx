@@ -1,0 +1,6 @@
+D:\Visual Studio\OOPAdvanced\Exercises Enumerations and Attributes\Problem 1. Card Suit\bin\Debug\Problem_1.Card_Suit.exe.config
+D:\Visual Studio\OOPAdvanced\Exercises Enumerations and Attributes\Problem 1. Card Suit\bin\Debug\Problem_1.Card_Suit.exe
+D:\Visual Studio\OOPAdvanced\Exercises Enumerations and Attributes\Problem 1. Card Suit\bin\Debug\Problem_1.Card_Suit.pdb
+D:\Visual Studio\OOPAdvanced\Exercises Enumerations and Attributes\Problem 1. Card Suit\obj\Debug\Problem_1.Card_Suit.exe
+D:\Visual Studio\OOPAdvanced\Exercises Enumerations and Attributes\Problem 1. Card Suit\obj\Debug\Problem_1.Card_Suit.pdb
+D:\Visual Studio\OOPAdvanced\Exercises Enumerations and Attributes\Problem 1. Card Suit\obj\Debug\Problem 1. Card Suit.csprojResolveAssemblyReference.cache
